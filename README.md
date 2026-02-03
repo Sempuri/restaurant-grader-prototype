@@ -1,4 +1,4 @@
-# 🦁 LionLokal Restaurant Grader
+# Restaurant Grader Prototype
 
 **LionLokal Restaurant Grader** is a web app that helps restaurant owners and marketers audit their restaurant websites for SEO, content quality, usability, and technical health. It provides actionable insights and a clear score breakdown, making it easy to identify areas for improvement. Optionally, it can generate AI-powered marketing tips using Google Gemini (limited to 20 requests/day on free tier).
 
